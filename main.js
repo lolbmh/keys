@@ -34,7 +34,7 @@ function my_keydown(e)
 			console.log("aplhabetkey")
 		}
 
-		if((keyPressed >=48 && keyPressed<=57)||)
+		if((keyPressed >=48 && keyPressed<=57))
         {
 			numberkey();
 			document.getElementById("d1").innerHTML="You pressed number key";
